@@ -4,6 +4,9 @@
 - **Title:** Skylark Courier — Island Air Mail
 - **Bounty:** best-flight-game-20261126-0057 — "Make the best flight game" ($500, top 50 share)
 - **Repo:** https://github.com/shincanx/skylark-courier
+- **Commit:** f615a8fd7982127b1af0288852e9c775e8eb97cd (main; entry-notes.md
+  itself was updated after this commit — see the repo's HEAD for the final
+  push, all files verified byte-identical)
 - **License:** MIT (SPDX-License-Identifier: MIT in LICENSE)
 
 ## The game
